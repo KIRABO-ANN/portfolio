@@ -1,0 +1,74 @@
+body {
+   background-color: brown;
+   background: url('../images/ddd.jpeg');
+   background-size: cover;
+border-radius: 100px;
+ 
+
+
+}
+
+
+.container {
+    background-color: blue;
+    color:aliceblue;
+    margin-left: 50px;
+   }
+
+   .title{
+border-radius:30px ;
+      background-color: chartreuse;
+   }
+
+.sub title {
+   bottom: 40px;
+   border-radius: 20px;
+   text-align: center;
+   text-decoration: solid;
+   text-emphasis: over line ;
+   text-indent: 35px;
+}
+
+.subb{
+
+   text-align: left;
+   text-transform: uppercase;
+   text-decoration-color: chocolate;
+   box-shadow: 50px;
+   text-size-adjust: 90px;
+   margin-left: 800px;
+
+}
+
+   .btn{
+      color: red;
+      background-color: white;
+      border-radius: 20px;
+      padding: 20px;
+      margin: 100px;
+
+   }
+.contacts {
+   margin: 50px; 
+   background-color: chocolate;
+   color: blanchedalmond;
+   border-radius: 100px;
+   padding: 30px;
+}
+
+.image{
+   width: 60px;
+   height: 100px;
+   border-radius: 90px;
+}
+
+.form {
+   width: 50px;
+   margin:24px ;auto
+
+}
+
+.form control {
+
+
+}
